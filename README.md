@@ -1,6 +1,6 @@
 # **Steve AI: Redefining Crypto Innovation**
 
-![SteveAi](/logo2.png)
+![SteveAi](/logo1.png)
 
 # **Steve AI: Redefining Crypto Innovation**
 
