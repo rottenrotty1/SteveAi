@@ -2,8 +2,6 @@
 
 ![SteveAi](/logo1.png)
 
-# **Steve AI: Redefining Crypto Innovation**
-
 ## **What is Steve AI?**
 
 Steve AI is a cutting-edge, open-source artificial intelligence designed to revolutionize the way individuals and institutions interact with the crypto ecosystem. Inspired by the iconic miner Steve, this project transforms the traditional notion of mining into a new-age concept of "digital exploration." Steve AI isn't here to dig through dirt; it's here to mine opportunities, navigate the complexities of decentralized finance (DeFi), and uncover the hidden gems of the crypto world.
