@@ -1,6 +1,6 @@
 # **Steve AI: Redefining Crypto Innovation**
 
-![HarvestAI](https://github.com/user-attachments/assets/fae76437-68cd-4203-b770-61836dc4102b)
+![SteveAi](/logo2.png)
 
 # **Steve AI: Redefining Crypto Innovation**
 
