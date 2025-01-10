@@ -1,6 +1,6 @@
 # **Steve Agent: Redefining Crypto Innovation**
 
-![SteveAgent](/logo1.png)
+![SteveAgent](/theme.png)
 
 ## **What is Steve Agent?**
 
